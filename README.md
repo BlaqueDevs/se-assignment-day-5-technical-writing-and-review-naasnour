@@ -35,5 +35,5 @@ Use clear, descriptive titles that reflect the content underneath. Keep them con
 Start with a brief overview of what the product does and who it’s for. This sets the stage and helps users understand its relevance right away
 
 ## 12. How can you succinctly convey the purpose and key features of a product?
-You can write a short paragraph that highlights the main function of the product and its standout features. Think of it like a catchy slogan—something memorable that captures the essence of the product
+You can write a short paragraph that highlights the main function of the product and its standout features. Think of it like a catchy slogan—something memorable that captures the essence of the product 
 
